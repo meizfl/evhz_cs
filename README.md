@@ -18,7 +18,7 @@ Works on **Linux** (via `/dev/input/eventX`) and **Windows** (via `GetCursorPos`
 
 ## Requirements
 
-- [.NET 6+](https://dotnet.microsoft.com/download) (or .NET Framework 4.7.2+)
+- [.NET 10](https://dotnet.microsoft.com/download)
 - Linux: read access to `/dev/input/event*` (may require `sudo` or membership in the `input` group)
 - Windows: no special permissions needed
 
